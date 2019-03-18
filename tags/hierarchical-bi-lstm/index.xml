@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hierarchical-bi-lstm on Karthik C.</title>
+    <link>/tags/hierarchical-bi-lstm/</link>
+    <description>Recent content in hierarchical-bi-lstm on Karthik C.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Oct 2018 00:00:00 +0530</lastBuildDate>
+    
+	<atom:link href="/tags/hierarchical-bi-lstm/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Email Author Identification</title>
+      <link>/project/email-auth/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0530</pubDate>
+      
+      <guid>/project/email-auth/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

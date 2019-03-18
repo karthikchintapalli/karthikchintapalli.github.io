@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Karthik C.</title>
+    <link>/project/</link>
+    <description>Recent content in Projects on Karthik C.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Dec 2018 00:00:00 +0530</lastBuildDate>
+    
+	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Q&amp;A System based on Memory Networks</title>
+      <link>/project/dmnplus/</link>
+      <pubDate>Tue, 18 Dec 2018 00:00:00 +0530</pubDate>
+      
+      <guid>/project/dmnplus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>News Credibility Determination</title>
+      <link>/project/news-cred/</link>
+      <pubDate>Sun, 18 Nov 2018 00:00:00 +0530</pubDate>
+      
+      <guid>/project/news-cred/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Email Author Identification</title>
+      <link>/project/email-auth/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0530</pubDate>
+      
+      <guid>/project/email-auth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decaf Compiler using LLVM</title>
+      <link>/project/decaf/</link>
+      <pubDate>Wed, 18 Oct 2017 00:00:00 +0530</pubDate>
+      
+      <guid>/project/decaf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decentralized Food Delivery using Blockchains</title>
+      <link>/project/food-del/</link>
+      <pubDate>Wed, 18 Oct 2017 00:00:00 +0530</pubDate>
+      
+      <guid>/project/food-del/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>4x4 Ultimate Tic-Tac-Toe Bot</title>
+      <link>/project/uttt-bot/</link>
+      <pubDate>Sat, 18 Mar 2017 00:00:00 +0530</pubDate>
+      
+      <guid>/project/uttt-bot/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

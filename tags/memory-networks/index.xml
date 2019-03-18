@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>memory-networks on Karthik C.</title>
+    <link>/tags/memory-networks/</link>
+    <description>Recent content in memory-networks on Karthik C.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Dec 2018 00:00:00 +0530</lastBuildDate>
+    
+	<atom:link href="/tags/memory-networks/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Q&amp;A System based on Memory Networks</title>
+      <link>/project/dmnplus/</link>
+      <pubDate>Tue, 18 Dec 2018 00:00:00 +0530</pubDate>
+      
+      <guid>/project/dmnplus/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

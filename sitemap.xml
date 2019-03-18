@@ -4,6 +4,62 @@
     
     <url>
     
+      <loc>/blogs/text-gans-1/</loc>
+      <lastmod>2019-03-18T00:08:50+05:30</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/dmnplus/</loc>
+      <lastmod>2018-12-18T00:00:00+05:30</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/news-cred/</loc>
+      <lastmod>2018-11-18T00:00:00+05:30</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/email-auth/</loc>
+      <lastmod>2018-10-18T00:00:00+05:30</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/decaf/</loc>
+      <lastmod>2017-10-18T00:00:00+05:30</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/food-del/</loc>
+      <lastmod>2017-10-18T00:00:00+05:30</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/uttt-bot/</loc>
+      <lastmod>2017-03-18T00:00:00+05:30</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/author/admin/</loc>
     </url>
     
@@ -27,6 +83,15 @@
     
     <url>
     
+      <loc>/blogs/</loc>
+      <lastmod>2019-03-18T00:08:50+05:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/categories/</loc>
       <priority>0</priority>
     </url>
@@ -36,6 +101,7 @@
     <url>
     
       <loc>/</loc>
+      <lastmod>2019-03-18T00:08:50+05:30</lastmod>
       <priority>0</priority>
     </url>
     
@@ -44,6 +110,15 @@
     <url>
     
       <loc>/post/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/</loc>
+      <lastmod>2018-12-18T00:00:00+05:30</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -81,6 +156,213 @@
     <url>
     
       <loc>/authors/admin/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/alpha-beta-pruning/</loc>
+      <lastmod>2017-03-18T00:00:00+05:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/artificial-intelligence/</loc>
+      <lastmod>2017-03-18T00:00:00+05:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/bison/</loc>
+      <lastmod>2017-10-18T00:00:00+05:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/blockchain/</loc>
+      <lastmod>2017-10-18T00:00:00+05:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/bot/</loc>
+      <lastmod>2017-03-18T00:00:00+05:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/c&#43;&#43;/</loc>
+      <lastmod>2017-10-18T00:00:00+05:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/cnn/</loc>
+      <lastmod>2018-11-18T00:00:00+05:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/compiler/</loc>
+      <lastmod>2017-10-18T00:00:00+05:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/decaf/</loc>
+      <lastmod>2017-10-18T00:00:00+05:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/decentralization/</loc>
+      <lastmod>2017-10-18T00:00:00+05:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/deep-learning/</loc>
+      <lastmod>2018-12-18T00:00:00+05:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/hierarchical-bi-lstm/</loc>
+      <lastmod>2018-10-18T00:00:00+05:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/keras/</loc>
+      <lastmod>2018-11-18T00:00:00+05:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/llvm/</loc>
+      <lastmod>2017-10-18T00:00:00+05:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/lstm/</loc>
+      <lastmod>2018-10-18T00:00:00+05:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/machine-learning/</loc>
+      <lastmod>2018-12-18T00:00:00+05:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/memory-networks/</loc>
+      <lastmod>2018-12-18T00:00:00+05:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/minimax/</loc>
+      <lastmod>2017-03-18T00:00:00+05:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/nlp/</loc>
+      <lastmod>2018-12-18T00:00:00+05:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/parser/</loc>
+      <lastmod>2017-10-18T00:00:00+05:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/smart-contract/</loc>
+      <lastmod>2017-10-18T00:00:00+05:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/solidity/</loc>
+      <lastmod>2017-10-18T00:00:00+05:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/tensorflow/</loc>
+      <lastmod>2018-12-18T00:00:00+05:30</lastmod>
       <priority>0</priority>
     </url>
     

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>artificial-intelligence on Karthik C.</title>
+    <link>/tags/artificial-intelligence/</link>
+    <description>Recent content in artificial-intelligence on Karthik C.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Mar 2017 00:00:00 +0530</lastBuildDate>
+    
+	<atom:link href="/tags/artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>4x4 Ultimate Tic-Tac-Toe Bot</title>
+      <link>/project/uttt-bot/</link>
+      <pubDate>Sat, 18 Mar 2017 00:00:00 +0530</pubDate>
+      
+      <guid>/project/uttt-bot/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
